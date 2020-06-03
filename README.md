@@ -1,5 +1,5 @@
 # caracal-coin
 
-contract source code verification
+contract source code of CRLC
 
 website: http://caracalcoin.org
